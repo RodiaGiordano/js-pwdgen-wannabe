@@ -4,14 +4,14 @@ const userSurname = prompt('inserisci il tuo cognome');
 
 const color = prompt('inserisci il tuo colore preferito');
 
-const password = (userName + userSurname + color) +'21';
+// const password = (userName + userSurname + color) +'21';
 
 // document.getElementById('password').innerHTML = password; 
 
 // alert.getElementDbyId = (password);
 
 
-window.alert(password);
+window.alert(userName + userSurname + color +'21');
 
 
 
