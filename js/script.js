@@ -12,14 +12,3 @@ const color = prompt('inserisci il tuo colore preferito');
 
 
 window.alert(userName + userSurname + color +'21');
-
-
-
-
-
-
-
-
-
-
-console.log (password);
